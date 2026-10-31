@@ -51,28 +51,3 @@
 | Panel de Administración |  Pendiente | Moderación de contenido. |
 
 ---
-
-##  Capturas de Pantalla (Próximamente)
-
-> *Aquí puedes agregar imágenes o GIFs de la interfaz una vez que esté lista. Por ahora, puedes mostrar un mockup o un diseño conceptual.*
-
-<!-- Ejemplo:
-<div align="center">
-  <img src="ruta/a/tu/imagen.png" width="600" alt="Captura del foro" />
-</div>
--->
-
----
-
-## Instalación y Uso Local
-
-```bash
-# 1. Clona el repositorio
-git clone https://github.com/StaticSaves/NEON-PROJEC.git
-
-# 2. Accede al directorio
-cd NEON-PROJEC
-
-# 3. Configura tu servidor local (XAMPP, Laragon, etc.) y la base de datos MySQL
-# 4. Importa el archivo .sql incluido en /database
-# 5. Abre en tu navegador: http://localhost/NEON-PROJEC
