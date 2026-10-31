@@ -38,8 +38,6 @@
 
 </div>
 
-*(Ajusta los badges según las tecnologías reales que uses en el proyecto)*
-
 ---
 
 ## Estado Actual y Próximos Pasos
